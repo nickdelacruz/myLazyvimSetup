@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.g.python3_host_prog = "/home/quantum/.pyenv/versions/3.11.10/envs/py3nvim"
 vim.g.python_host_prog = "/home/quantum/.pyenv/versions/3.11.10/envs/py3nvim"
+vim.g.autoformat = false
